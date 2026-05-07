@@ -1,0 +1,115 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "name": "Fundamentos em Hematologia de Hoffbrand",
+  "bookEdition": "9.ed.",
+  "description": "Há mais de 40 anos, Fundamentos em Hematologia de Hoffbrand é referência para estudantes e profissionais da medicina e de outras áreas da saúde, oferecendo uma visão clara e didática dos principais fundamentos da hematologia clínica e laboratorial. Escrita por especialistas reconhecidos, a obra cobre desde a ciência básica até o diagnóstico, as manifestações clínicas e o manejo das doenças hematológicas. Ricamente ilustrado, o livro contempla anemias, distúrbios dos leucócitos, leucemias, linfomas, mieloma, coagulopatias e aspectos hematológicos da gestação, do período neonatal e de doenças sistêmicas. Esta 9ª edição incorpora os avanços mais recentes, incluindo a 5ª Classificação de Neoplasias Hematológicas da OMS (2022), novas técnicas para detecção de doença residual mínima e atualizações terapêuticas de doenças benignas e malignas. Traz ainda seções inéditas sobre Covid 19 e trombocitopenia trombótica induzida por vacina, além de capítulos ampliados sobre linfomas não Hodgkin, amiloidose e hemofilia. É uma obra indispensável para quem busca uma base sólida e atualizada em hematologia.",
+  "abstract": "Há mais de 40 anos, Fundamentos em Hematologia de Hoffbrand é referência para estudantes e profissionais da medicina e de outras áreas da saúde, oferecendo uma visão clara e didática dos principais fundamentos da hematologia clínica e laboratorial. Escrita por especialistas reconhecidos, a obra cobre desde a ciência básica até o diagnóstico, as manifestações clínicas e o manejo das doenças hematológicas. É uma obra indispensável para quem busca uma base sólida e atualizada em hematologia.",
+  "numberOfPages": 496,
+  "genre": "Hematologia",
+  "keywords": [
+    "hematologia",
+    "medicina",
+    "livro acadêmico",
+    "livro texto",
+    "clínica médica"
+  ],
+  "inLanguage": "pt-BR",
+  "datePublished": "2026",
+  "dateCreated": "2026-05-04",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Artmed",
+    "url": "https://www.grupoa.com.br"
+  },
+  "countryOfOrigin": {
+    "@type": "Country",
+    "name": "Brasil"
+  },
+  "translator": {
+    "@type": "Person",
+    "name": "André Garcia Islabão"
+  },
+  "review": {
+    "@type": "Review",
+    "reviewer": {
+      "@type": "Person",
+      "name": "Flavo Beno Fernandes"
+    },
+    "reviewRole": "Revisão técnica"
+  },
+  "author": [
+    {
+      "@type": "Person",
+      "name": "A. Victor Hoffbrand"
+    },
+    {
+      "@type": "Person",
+      "name": "Pratima Chowdary"
+    },
+    {
+      "@type": "Person",
+      "name": "Graham P. Collins"
+    },
+    {
+      "@type": "Person",
+      "name": "Justin Loke"
+    }
+  ],
+  "workExample": [
+    {
+      "@type": "Book",
+      "@id": "#printedEdition",
+      "bookFormat": "https://schema.org/Paperback",
+      "isbn": "9786558824107",
+      "name": "Fundamentos em Hematologia de Hoffbrand - Impresso"
+    },
+    {
+      "@type": "Book",
+      "@id": "#ebookEdition",
+      "bookFormat": "https://schema.org/EBook",
+      "isbn": "9786558824114",
+      "name": "Fundamentos em Hematologia de Hoffbrand - eBook (ePub)"
+    }
+  ],
+  "offers": [
+    {
+      "@type": "Offer",
+      "itemOffered": {
+        "@id": "#printedEdition"
+      },
+      "price": "447.00",
+      "priceCurrency": "BRL",
+      "availability": "https://schema.org/PreOrder"
+    },
+    {
+      "@type": "Offer",
+      "itemOffered": {
+        "@id": "#ebookEdition"
+      },
+      "availability": "https://schema.org/PreOrder"
+    }
+  ],
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "formato_comercial",
+      "value": "21x28"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "paginas",
+      "value": "496"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "cores",
+      "value": "4"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "foco_prioritario",
+      "value": "Acadêmico"
+    }
+  ]
+}
