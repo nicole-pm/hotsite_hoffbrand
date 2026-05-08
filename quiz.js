@@ -20,7 +20,9 @@
     17: 'Leucemia linfoblástica aguda',
     18: 'Leucemias linfocíticas crônicas',
     19: 'Linfoma de Hodgkin',
-    20: 'Linfomas não Hodgkin'
+    20: 'Linfomas não Hodgkin',
+    21: 'Aspectos clínicos dos linfomas folicular e de alto grau',
+    22: 'Mieloma múltiplo'
   };
   
   const data = window.__QUIZ_DATA__;
@@ -57,7 +59,7 @@
         <div class="quiz-header">
           <div>
             <h3>Quiz interativo de Hematologia</h3>
-            <div class="sub">Pontuação por capítulo · feedback imediato a cada resposta · 20 capítulos disponíveis.</div>
+            <div class="sub">Pontuação por capítulo · feedback imediato a cada resposta · 22 capítulos disponíveis.</div>
           </div>
           <div class="quiz-stats">
             <div class="stat-pill">

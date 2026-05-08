@@ -7717,5 +7717,863 @@
         "correctIndex": 0
       }
     ]
+  },
+  {
+    "chapter": 21,
+    "questions": [
+      {
+        "num": 1,
+        "text": "Um homem de 78 anos notou um aumento lento de aglomerados de linfonodos na axila esquerda e na região supraclavicular esquerda nos últimos 12 meses, mas não procurou atendimento médico. A lactato-desidrogenase (LDH) é 250 U/L (faixa normal: 120-284 U/L), e o hemograma completo é normal. Uma biópsia de um dos linfonodos mostra células restritas à cadeia leve lambda positivas para CD10 e CD20. Qual dos seguintes diagnósticos é mais provável?",
+        "options": [
+          {
+            "letter": "A",
+            "text": "Linfoma difuso de grandes células B",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "B",
+            "text": "Linfoma folicular",
+            "feedback": "Correto!",
+            "correct": true
+          },
+          {
+            "letter": "C",
+            "text": "Linfoma de células T periféricas",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "D",
+            "text": "Leucemia linfocítica crônica",
+            "feedback": "",
+            "correct": false
+          }
+        ],
+        "correctIndex": 1
+      },
+      {
+        "num": 2,
+        "text": "Um homem de 60 anos apresenta dores de cabeça e anemia. Investigações subsequentes revelam uma proteína elevada e uma paraproteína IgM de 3 g/dL. Nenhum linfonodo é palpável e o baço e o fígado não estão aumentados. Qual é o diagnóstico mais provável?",
+        "options": [
+          {
+            "letter": "A",
+            "text": "Linfoma de Burkitt",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "B",
+            "text": "Linfoma folicular",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "C",
+            "text": "Micose fungoide",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "D",
+            "text": "Linfoma linfoplasmocítico",
+            "feedback": "Correto!",
+            "correct": true
+          }
+        ],
+        "correctIndex": 3
+      },
+      {
+        "num": 3,
+        "text": "Um menino de 6 anos com histórico de malária que vive nas terras altas de Uganda desenvolve rapidamente um inchaço crescente da mandíbula. Uma biópsia excisional da massa é realizada. Sob microscopia de baixa potência, o padrão parece semelhante a um “céu estrelado”. Qual é o diagnóstico mais provável?",
+        "options": [
+          {
+            "letter": "A",
+            "text": "Linfoma de Burkitt",
+            "feedback": "Correto!",
+            "correct": true
+          },
+          {
+            "letter": "B",
+            "text": "Linfoma folicular",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "C",
+            "text": "Micose fungoide",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "D",
+            "text": "Linfoma linfoblástico",
+            "feedback": "",
+            "correct": false
+          }
+        ],
+        "correctIndex": 0
+      },
+      {
+        "num": 4,
+        "text": "Um homem de 70 anos apresenta manchas vermelhas persistentes difusas na pele. O exame revela hepatomegalia. Se esse paciente tem linfoma, qual é o subtipo mais provável de linfoma?",
+        "options": [
+          {
+            "letter": "A",
+            "text": "Linfoma difuso de grandes células B",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "B",
+            "text": "Linfoma anaplásico",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "C",
+            "text": "Micose fungoide",
+            "feedback": "Correto!",
+            "correct": true
+          },
+          {
+            "letter": "D",
+            "text": "Linfoma do tecido linfoide associado à mucosa (MALT)",
+            "feedback": "",
+            "correct": false
+          }
+        ],
+        "correctIndex": 2
+      },
+      {
+        "num": 5,
+        "text": "Um homem de 28 anos é diagnosticado com linfoma de Burkitt. Qual das seguintes anormalidades cromossômicas tem maior probabilidade de ser observada nas células malignas desse paciente?",
+        "options": [
+          {
+            "letter": "A",
+            "text": "t(9;22)",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "B",
+            "text": "t(8;14)",
+            "feedback": "Correto!",
+            "correct": true
+          },
+          {
+            "letter": "C",
+            "text": "t(14;18)",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "D",
+            "text": "Monossomia do 7",
+            "feedback": "",
+            "correct": false
+          }
+        ],
+        "correctIndex": 1
+      },
+      {
+        "num": 6,
+        "text": "Um homem de 35 anos é diagnosticado com linfoma anaplásico sistêmico de grandes células CD30+. Qual das seguintes terapias baseadas em anticorpos tem maior probabilidade de ser útil para esse paciente?",
+        "options": [
+          {
+            "letter": "A",
+            "text": "Rituximabe",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "B",
+            "text": "Blinatumomabe",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "C",
+            "text": "Brentuximabe vedotina",
+            "feedback": "Correto!",
+            "correct": true
+          },
+          {
+            "letter": "D",
+            "text": "Ofatumumabe",
+            "feedback": "",
+            "correct": false
+          }
+        ],
+        "correctIndex": 2
+      },
+      {
+        "num": 7,
+        "text": "Uma mulher de 41 anos apresenta linfadenopatia abdominal e linfocitose do sangue periférico. O imunofenótipo é CD20+, CD5+ e CD23—. A análise citogenética mostra uma translocação t(11:14). Qual é o diagnóstico?",
+        "options": [
+          {
+            "letter": "A",
+            "text": "Linfoma de células do manto",
+            "feedback": "Correto!",
+            "correct": true
+          },
+          {
+            "letter": "B",
+            "text": "Linfoma da zona marginal",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "C",
+            "text": "Linfoma folicular",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "D",
+            "text": "Linfoma linfocítico de células pequenas",
+            "feedback": "",
+            "correct": false
+          }
+        ],
+        "correctIndex": 0
+      },
+      {
+        "num": 8,
+        "text": "Um paciente com linfoma folicular não Hodgkin em estágio IV deve iniciar a terapia com um regime contendo rituximabe. Qual dos seguintes microrganismos é importante testar antes do início da terapia?",
+        "options": [
+          {
+            "letter": "A",
+            "text": "Helicobacter pylori",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "B",
+            "text": "Hepatite B",
+            "feedback": "Correto!",
+            "correct": true
+          },
+          {
+            "letter": "C",
+            "text": "Citomegalovírus (CMV)",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "D",
+            "text": "Pneumocystis jirovecii",
+            "feedback": "",
+            "correct": false
+          }
+        ],
+        "correctIndex": 1
+      },
+      {
+        "num": 9,
+        "text": "Um paciente com histórico de linfoma linfoplasmocítico apresenta dores de cabeça e visão turva. No exame químico de rotina, observa-se que a proteína total é de 112 g/L, enquanto a albumina é de 33 g/L. Qual das seguintes terapias tem maior probabilidade de aliviar rapidamente seus sintomas?",
+        "options": [
+          {
+            "letter": "A",
+            "text": "Plasmaférese",
+            "feedback": "Correto!",
+            "correct": true
+          },
+          {
+            "letter": "B",
+            "text": "Rituximabe",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "C",
+            "text": "Bortezomibe e dexametasona",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "D",
+            "text": "Quimioterapia CHOP",
+            "feedback": "",
+            "correct": false
+          }
+        ],
+        "correctIndex": 0
+      },
+      {
+        "num": 10,
+        "text": "Qual dos seguintes genes é mais comumente mutado no linfoma linfoplasmocítico?",
+        "options": [
+          {
+            "letter": "A",
+            "text": "MYD88",
+            "feedback": "Correto!",
+            "correct": true
+          },
+          {
+            "letter": "B",
+            "text": "TP53",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "C",
+            "text": "CCND1",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "D",
+            "text": "BCL2",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "E",
+            "text": "RUNX1",
+            "feedback": "",
+            "correct": false
+          }
+        ],
+        "correctIndex": 0
+      },
+      {
+        "num": 11,
+        "text": "Pode surgir em uma célula central germinativa ou em uma célula B ativada. A qual linfoma isso se aplica?",
+        "options": [
+          {
+            "letter": "A",
+            "text": "Linfoma folicular",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "B",
+            "text": "Linfoma difuso de grandes células B",
+            "feedback": "Correto!",
+            "correct": true
+          },
+          {
+            "letter": "C",
+            "text": "Linfoma de Hodgkin",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "D",
+            "text": "Linfoma linfoplasmocítico",
+            "feedback": "",
+            "correct": false
+          }
+        ],
+        "correctIndex": 1
+      },
+      {
+        "num": 12,
+        "text": "O linfoma primário do sistema nervoso central geralmente é qual tipo de linfoma?",
+        "options": [
+          {
+            "letter": "A",
+            "text": "Linfoma difuso de grandes células B",
+            "feedback": "Correto!",
+            "correct": true
+          },
+          {
+            "letter": "B",
+            "text": "Linfoma folicular",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "C",
+            "text": "Linfomas de células T",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "D",
+            "text": "Linfoma de Burkitt",
+            "feedback": "",
+            "correct": false
+          }
+        ],
+        "correctIndex": 0
+      },
+      {
+        "num": 13,
+        "text": "Qual dos seguintes NÃO é um efeito colateral comum do R‐CHOP?",
+        "options": [
+          {
+            "letter": "A",
+            "text": "Neuropatia periférica",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "B",
+            "text": "Perda de cabelo",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "C",
+            "text": "Neutropenia febril",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "D",
+            "text": "Reações de infusão",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "E",
+            "text": "Insuficiência renal",
+            "feedback": "Correto!",
+            "correct": true
+          }
+        ],
+        "correctIndex": 4
+      },
+      {
+        "num": 14,
+        "text": "Qual dos seguintes é um fator de mau prognóstico para LDGCB?",
+        "options": [
+          {
+            "letter": "A",
+            "text": "Idade jovem ao diagnóstico",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "B",
+            "text": "Envolvimento de vários sítios extranodais",
+            "feedback": "Correto!",
+            "correct": true
+          },
+          {
+            "letter": "C",
+            "text": "Beta-2‐microglobulina elevada",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "D",
+            "text": "Anemia na primeira apresentação",
+            "feedback": "",
+            "correct": false
+          }
+        ],
+        "correctIndex": 1
+      },
+      {
+        "num": 15,
+        "text": "Qual dos seguintes é usado rotineiramente no tratamento de primeira linha de linfomas não Hodgkin de células B de alto grau?",
+        "options": [
+          {
+            "letter": "A",
+            "text": "Anticorpos monoclonais contra CD20",
+            "feedback": "Correto!",
+            "correct": true
+          },
+          {
+            "letter": "B",
+            "text": "Anticorpos biespecíficos contra CD20 e CD3",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "C",
+            "text": "Células T CAR direcionadas ao CD19",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "D",
+            "text": "Anticorpos monoclonais contra CD30",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "E",
+            "text": "Inibidores de BTK",
+            "feedback": "",
+            "correct": false
+          }
+        ],
+        "correctIndex": 0
+      },
+      {
+        "num": 16,
+        "text": "Um homem de 73 anos é avaliado na clínica de hematologia com um novo diagnóstico de linfoma folicular em estágio 4A. Ele tem várias áreas volumosas da doença, uma das quais está causando hidronefrose (a função renal permanece normal). Ele está anêmico com plaquetas baixas. Qual seria uma opção de tratamento apropriada?",
+        "options": [
+          {
+            "letter": "A",
+            "text": "Radioterapia no local da doença causadora da hidronefrose",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "B",
+            "text": "Anticorpo monoclonal anti-CD20 combinado com quimioterapia, como a bendamustina",
+            "feedback": "Correto!",
+            "correct": true
+          },
+          {
+            "letter": "C",
+            "text": "Terapia celular CAR T anti CD19",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "D",
+            "text": "Ibrutinibe (ou outro inibidor de BTK) combinado com rituximabe ou obinutuzumabe",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "E",
+            "text": "Venetoclax combinado com ibrutinibe",
+            "feedback": "",
+            "correct": false
+          }
+        ],
+        "correctIndex": 1
+      }
+    ]
+  },
+  {
+    "chapter": 22,
+    "questions": [
+      {
+        "num": 1,
+        "text": "Qual dos seguintes subtipos de gamopatia monoclonal de significado indeterminado (MGUS) tem maior probabilidade de progredir para neoplasia evidente?",
+        "options": [
+          {
+            "letter": "A",
+            "text": "IgA",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "B",
+            "text": "IgG",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "C",
+            "text": "Somente cadeia leve",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "D",
+            "text": "IgM",
+            "feedback": "Correto!",
+            "correct": true
+          }
+        ],
+        "correctIndex": 3
+      },
+      {
+        "num": 2,
+        "text": "Qual dos seguintes padrões de antígenos é característico das células neoplásicas no mieloma múltiplo?",
+        "options": [
+          {
+            "letter": "A",
+            "text": "CD33 e CD117 positivo",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "B",
+            "text": "CD38, CD30 e CD19 positivo",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "C",
+            "text": "CD38 e CD138 positivo, CD19 negativo",
+            "feedback": "Correto!",
+            "correct": true
+          },
+          {
+            "letter": "D",
+            "text": "CD10 e CD19 positivo",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "E",
+            "text": "CD25 e CD123 positivo",
+            "feedback": "",
+            "correct": false
+          }
+        ],
+        "correctIndex": 2
+      },
+      {
+        "num": 3,
+        "text": "Um homem de 68 anos foi recentemente diagnosticado com mieloma múltiplo de cadeia leve após apresentar anemia e dor óssea. Qual das seguintes complicações é mais provável durante o curso da doença neste paciente?",
+        "options": [
+          {
+            "letter": "A",
+            "text": "Insuficiência renal",
+            "feedback": "Correto!",
+            "correct": true
+          },
+          {
+            "letter": "B",
+            "text": "Miorcardiopatia",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "C",
+            "text": "Fibrose hepática",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "D",
+            "text": "Fibrose pulmonar",
+            "feedback": "",
+            "correct": false
+          }
+        ],
+        "correctIndex": 0
+      },
+      {
+        "num": 4,
+        "text": "Descobriu-se que um paciente tem cadeias leves livres de kappa e lambda séricas elevadas, mas a relação kappa/lambda está dentro da faixa normal. Qual é a causa mais provável desse achado laboratorial?",
+        "options": [
+          {
+            "letter": "A",
+            "text": "Mieloma não secretor",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "B",
+            "text": "Insuficiência renal",
+            "feedback": "Correto!",
+            "correct": true
+          },
+          {
+            "letter": "C",
+            "text": "Amiloidose de cadeia leve",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "D",
+            "text": "Gamopatia biclonal",
+            "feedback": "",
+            "correct": false
+          }
+        ],
+        "correctIndex": 1
+      },
+      {
+        "num": 5,
+        "text": "Qual dos seguintes pacientes seria diagnosticado com mieloma múltiplo latente?",
+        "options": [
+          {
+            "letter": "A",
+            "text": "Plasmócitos > 10% na medula óssea, ausência de paraproteína no sangue, presença de lesões ósseas líticas",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "B",
+            "text": "Plasmócitos > 10% na medula óssea, proporção anormal de cadeia leve livre no soro, hipercalcemia",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "C",
+            "text": "Plasmócitos < 1%, paraproteína 20 g/L no sangue, osteoporose",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "D",
+            "text": "Plasmócitos > 10%, paraproteína 30 g/L no sangue, ausência de lesões líticas, anemia ou hipercalcemia",
+            "feedback": "Correto!",
+            "correct": true
+          }
+        ],
+        "correctIndex": 3
+      },
+      {
+        "num": 6,
+        "text": "Um homem de 64 anos foi diagnosticado na semana passada com mieloma múltiplo. Ele tem função renal normal e está bem de saúde, exceto o mieloma. Qual é dos abaixo o tratamento mais adequado?",
+        "options": [
+          {
+            "letter": "A",
+            "text": "Vários cursos de terapia com bortezomibe, lenalidomida e dexametasona, seguidos pela coleta de células-tronco autólogas",
+            "feedback": "Correto!",
+            "correct": true
+          },
+          {
+            "letter": "B",
+            "text": "Cursos mensais de melfalana oral com prednisolona até que o nível de paraproteína atinja um patamar, depois manutenção com lenalidomida",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "C",
+            "text": "Quimioterapia à base de bortezomibe seguida por um transplante de células-tronco alogênico de um doador relacionado",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "D",
+            "text": "Cursos mensais de quimioterapia R-CHOP",
+            "feedback": "",
+            "correct": false
+          }
+        ],
+        "correctIndex": 0
+      },
+      {
+        "num": 7,
+        "text": "Qual das seguintes NÃO é uma característica típica do mieloma?",
+        "options": [
+          {
+            "letter": "A",
+            "text": "Dor nas costas",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "B",
+            "text": "Linfadenopatia",
+            "feedback": "Correto!",
+            "correct": true
+          },
+          {
+            "letter": "C",
+            "text": "Tendência anormal de sangramento",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "D",
+            "text": "Insuficiência renal",
+            "feedback": "",
+            "correct": false
+          }
+        ],
+        "correctIndex": 1
+      },
+      {
+        "num": 8,
+        "text": "Qual dos seguintes efeitos adversos é mais provável em um paciente que está recebendo terapia com bortezomibe para mieloma?",
+        "options": [
+          {
+            "letter": "A",
+            "text": "Neoplasia mieloide relacionada à terapia",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "B",
+            "text": "Neuropatia periférica",
+            "feedback": "Correto!",
+            "correct": true
+          },
+          {
+            "letter": "C",
+            "text": "Disfunção renal",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "D",
+            "text": "Elevação das enzimas hepáticas",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "E",
+            "text": "Fibrose pulmonar",
+            "feedback": "",
+            "correct": false
+          }
+        ],
+        "correctIndex": 1
+      },
+      {
+        "num": 9,
+        "text": "Qual das seguintes é uma característica de alto risco do mieloma no Sistema Internacional de Estadiamento Revisado?",
+        "options": [
+          {
+            "letter": "A",
+            "text": "Beta-2‐microglobulina sérica 4,0 mg/L",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "B",
+            "text": "Albumina sérica 30 g/L",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "C",
+            "text": "Hemoglobina 9 g/dL",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "D",
+            "text": "Presença de del(17p)",
+            "feedback": "Correto!",
+            "correct": true
+          }
+        ],
+        "correctIndex": 3
+      },
+      {
+        "num": 10,
+        "text": "Qual dos seguintes anticorpos é útil no tratamento do mieloma?",
+        "options": [
+          {
+            "letter": "A",
+            "text": "Rituximabe",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "B",
+            "text": "Daratumumabe",
+            "feedback": "Correto!",
+            "correct": true
+          },
+          {
+            "letter": "C",
+            "text": "Ecluzimabe",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "D",
+            "text": "Gentuzumabe",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "E",
+            "text": "Alentuzumabe",
+            "feedback": "",
+            "correct": false
+          }
+        ],
+        "correctIndex": 1
+      }
+    ]
   }
 ]
