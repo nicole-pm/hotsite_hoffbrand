@@ -2,20 +2,21 @@
 (function() {
   const CHAPTER_TITLES = {
     1: 'Hematopoiese',
-    2: 'Eritropoiese e aspectos gerais das anemias',
-    3: 'Anemia ferropriva e por sobrecarga de ferro',
-    4: 'Anemias megaloblásticas e outras macrocíticas',
-    5: 'Anemias hemolíticas',
-    6: 'Anemias hemolíticas hereditárias e adquiridas',
-    7: 'Talassemias',
-    8: 'Hemoglobinopatias',
-    9: 'O ambiente da medula óssea: aplasia, MDS e MPN',
-    10: 'Leucemias agudas',
-    11: 'Leucemias crônicas',
-    12: 'Linfomas Hodgkin e não Hodgkin',
-    13: 'Mieloma e gamopatias monoclonais',
-    14: 'Hemostasia e trombose',
-    15: 'Transfusão e transplante de células-tronco'
+    2: 'Eritropoiese e aspectos gerais da anemia',
+    3: 'Anemias hipocrômicas',
+    4: 'Sobrecarga de ferro',
+    5: 'Anemias megaloblásticas e outras anemias macrocíticas',
+    6: 'Anemias hemolíticas',
+    7: 'Distúrbios genéticos da hemoglobina',
+    8: 'Leucócitos 1: granulócitos, monócitos e seus distúrbios benignos',
+    9: 'Leucócitos 2: linfócitos e seus distúrbios benignos',
+    10: 'Baço',
+    11: 'Etiologia e genética das neoplasias hematológicas',
+    12: 'Tratamento das neoplasias hematológicas',
+    13: 'Leucemia mieloide aguda',
+    14: 'Leucemia mieloide crônica',
+    15: 'Neoplasias mieloproliferativas',
+    16: 'Neoplasias mielodisplásicas'
   };
   
   const data = window.__QUIZ_DATA__;
@@ -52,7 +53,7 @@
         <div class="quiz-header">
           <div>
             <h3>Quiz interativo de Hematologia</h3>
-            <div class="sub">Pontuação por capítulo · feedback imediato a cada resposta · 15 capítulos disponíveis.</div>
+            <div class="sub">Pontuação por capítulo · feedback imediato a cada resposta · 16 capítulos disponíveis.</div>
           </div>
           <div class="quiz-stats">
             <div class="stat-pill">
