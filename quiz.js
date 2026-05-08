@@ -22,7 +22,8 @@
     19: 'Linfoma de Hodgkin',
     20: 'Linfomas não Hodgkin',
     21: 'Aspectos clínicos dos linfomas folicular e de alto grau',
-    22: 'Mieloma múltiplo'
+    22: 'Mieloma múltiplo',
+    23: 'Amiloidose'
   };
   
   const data = window.__QUIZ_DATA__;
@@ -59,7 +60,7 @@
         <div class="quiz-header">
           <div>
             <h3>Quiz interativo de Hematologia</h3>
-            <div class="sub">Pontuação por capítulo · feedback imediato a cada resposta · 22 capítulos disponíveis.</div>
+            <div class="sub">Pontuação por capítulo · feedback imediato a cada resposta · 23 capítulos disponíveis.</div>
           </div>
           <div class="quiz-stats">
             <div class="stat-pill">

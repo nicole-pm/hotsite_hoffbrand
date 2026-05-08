@@ -8575,5 +8575,214 @@
         "correctIndex": 1
       }
     ]
+  },
+  {
+    "chapter": 23,
+    "questions": [
+      {
+        "num": 1,
+        "text": "Qual das afirmações a seguir melhor descreve as amiloidoses?",
+        "options": [
+          {
+            "letter": "A",
+            "text": "Amiloidoses são um grupo de doenças causadas pela deposição extracelular de proteína em uma forma fibrilar anormal",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "B",
+            "text": "São caracterizadas pela deposição intracelular de proteína em uma folha β‐pregueada anormal",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "C",
+            "text": "Amiloidoses são um grupo de doenças causadas pela deposição extracelular de proteína em uma forma fibrilar anormal",
+            "feedback": "Correto!",
+            "correct": true
+          },
+          {
+            "letter": "D",
+            "text": "São caracterizadas por histiócitos azul-marinhos",
+            "feedback": "",
+            "correct": false
+          }
+        ],
+        "correctIndex": 2
+      },
+      {
+        "num": 2,
+        "text": "Um homem de 52 anos desenvolve fadiga, anormalidade sensorial e edema periférico. No exame, apresenta macroglossia e sinais vitais ortostáticos alterados. Qual dos seguintes diagnósticos é mais provável?",
+        "options": [
+          {
+            "letter": "A",
+            "text": "Crioglobulinemia",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "B",
+            "text": "Síndrome POEMS",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "C",
+            "text": "Amiloidose transtirretina",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "D",
+            "text": "Amiloidose de cadeia leve",
+            "feedback": "Correto!",
+            "correct": true
+          }
+        ],
+        "correctIndex": 3
+      },
+      {
+        "num": 3,
+        "text": "A amiloidose do fator quimiotático leucocitário ll (ALECT2) é predominantemente:",
+        "options": [
+          {
+            "letter": "A",
+            "text": "Uma causa de insuficiência renal",
+            "feedback": "Correto!",
+            "correct": true
+          },
+          {
+            "letter": "B",
+            "text": "Uma causa de insuficiência cardíaca",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "C",
+            "text": "Uma causa de doença hepática",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "D",
+            "text": "Uma doença de adultos jovens",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "E",
+            "text": "Uma doença observada principalmente em populações do norte da Europa",
+            "feedback": "",
+            "correct": false
+          }
+        ],
+        "correctIndex": 0
+      },
+      {
+        "num": 4,
+        "text": "Qual das seguintes opções NÃO é uma causa da amiloidose AL sistêmica?",
+        "options": [
+          {
+            "letter": "A",
+            "text": "Macroglobulinemia de Waldenström",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "B",
+            "text": "MGUS",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "C",
+            "text": "Linfoma de células T periféricas",
+            "feedback": "Correto!",
+            "correct": true
+          },
+          {
+            "letter": "D",
+            "text": "Mieloma",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "E",
+            "text": "Linfoma folicular",
+            "feedback": "",
+            "correct": false
+          }
+        ],
+        "correctIndex": 2
+      },
+      {
+        "num": 5,
+        "text": "A natureza química da inflamação crônica associada à amiloidose sistêmica é:",
+        "options": [
+          {
+            "letter": "A",
+            "text": "β-2-microglobulina",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "B",
+            "text": "Transtirretina normal",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "C",
+            "text": "Proteína amiloide A sérica (AA)",
+            "feedback": "Correto!",
+            "correct": true
+          },
+          {
+            "letter": "D",
+            "text": "Fator quimiotático II de leucócitos (LECT2)",
+            "feedback": "",
+            "correct": false
+          }
+        ],
+        "correctIndex": 2
+      },
+      {
+        "num": 6,
+        "text": "A amiloidose transtirretina NÃO é:",
+        "options": [
+          {
+            "letter": "A",
+            "text": "Frequentemente associada à síndrome do túnel do carpo",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "B",
+            "text": "Mais frequentemente causada por uma transtirretina normal",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "C",
+            "text": "Devida a uma anormalidade genética da transtirretina em alguns pacientes",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "D",
+            "text": "Predominantemente uma causa de insuficiência renal",
+            "feedback": "Correto!",
+            "correct": true
+          },
+          {
+            "letter": "E",
+            "text": "Mais frequentemente uma doença dos idosos",
+            "feedback": "",
+            "correct": false
+          }
+        ],
+        "correctIndex": 3
+      }
+    ]
   }
 ]
