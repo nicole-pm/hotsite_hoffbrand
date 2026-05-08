@@ -6879,5 +6879,843 @@
         "correctIndex": 3
       }
     ]
+  },
+  {
+    "chapter": 19,
+    "questions": [
+      {
+        "num": 1,
+        "text": "Uma mulher de 24 anos apresenta uma massa cervical indolor de 3 × 3 cm no lado esquerdo que não melhorou com antibióticos administrados por seu clínico geral. O exame físico demonstra apenas adenopatia na região cervical anterior esquerda; a ponta do baço é palpável apenas com inspiração profunda. A biópsia de um linfonodo cervical anterior revela linfoma de Hodgkin de tipo esclerose nodular. A tomografia por emissão de pósitrons/tomografia computadorizada (PET/TC) mostra uma captação muito maior no pescoço esquerdo, mas nenhuma captação no baço ou em outros grupos linfonodais. Ela perdeu 3 kg no último ano e agora pesa 62 kg. Ela não apresenta suores noturnos ou febres inexplicáveis. Em que estágio está a doença dela?",
+        "options": [
+          {
+            "letter": "A",
+            "text": "IA",
+            "feedback": "Correto!",
+            "correct": true
+          },
+          {
+            "letter": "B",
+            "text": "IIA",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "C",
+            "text": "IIIA",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "D",
+            "text": "IB",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "E",
+            "text": "IIIB",
+            "feedback": "",
+            "correct": false
+          }
+        ],
+        "correctIndex": 0
+      },
+      {
+        "num": 2,
+        "text": "Qual das seguintes é a origem celular da célula de Reed-Sternberg anormal?",
+        "options": [
+          {
+            "letter": "A",
+            "text": "Eosinófilo",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "B",
+            "text": "Célula B",
+            "feedback": "Correto!",
+            "correct": true
+          },
+          {
+            "letter": "C",
+            "text": "Monócito-macrófago",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "D",
+            "text": "Célula T",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "E",
+            "text": "Plasmócito",
+            "feedback": "",
+            "correct": false
+          }
+        ],
+        "correctIndex": 1
+      },
+      {
+        "num": 3,
+        "text": "Um relatório de patologia de uma biópsia de um linfonodo supraclavicular aumentado diz: “As bandas de colágeno se estendem da cápsula do linfonodo para envolver nódulos de tecido anormal. Com frequência, é encontrada uma célula lacunar característica, variante da célula de Reed-Sternberg. A eosinofilia é frequente”. Qual subtipo histológico do linfoma de Hodgkin está sendo descrito aqui?",
+        "options": [
+          {
+            "letter": "A",
+            "text": "Esclerose nodular",
+            "feedback": "Correto!",
+            "correct": true
+          },
+          {
+            "letter": "B",
+            "text": "Com predomínio linfocítico",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "C",
+            "text": "Depleção linfocitária",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "D",
+            "text": "Celularidade mista",
+            "feedback": "",
+            "correct": false
+          }
+        ],
+        "correctIndex": 0
+      },
+      {
+        "num": 4,
+        "text": "Qual dos seguintes é un fator prognóstico favorável para o linfoma de Hodgkin clássico?",
+        "options": [
+          {
+            "letter": "A",
+            "text": "Sexo masculino",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "B",
+            "text": "Albumina de 3 g/dL",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "C",
+            "text": "Envolvimento irregular da medula óssea",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "D",
+            "text": "Dor nos linfonodos afetados ao beber álcool",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "E",
+            "text": "Um exame 18FDG PET provisório negativo durante a quimioterapia de primeira linha",
+            "feedback": "Correto!",
+            "correct": true
+          }
+        ],
+        "correctIndex": 4
+      },
+      {
+        "num": 5,
+        "text": "Qual subtipo de linfoma de Hodgkin tem maior probabilidade de expressar CD20?",
+        "options": [
+          {
+            "letter": "A",
+            "text": "Depleção linfocitária",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "B",
+            "text": "Predominância linfocitária nodular",
+            "feedback": "Correto!",
+            "correct": true
+          },
+          {
+            "letter": "C",
+            "text": "Rico em linfócitos",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "D",
+            "text": "Esclerose nodular",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "E",
+            "text": "Celularidade mista",
+            "feedback": "",
+            "correct": false
+          }
+        ],
+        "correctIndex": 1
+      },
+      {
+        "num": 6,
+        "text": "Um homem assintomático de 39 anos apresenta linfoma de Hodgkin envolvendo apenas a região axilar esquerda, sem características desfavoráveis. Qual é a terapia mais adequada para esse paciente?",
+        "options": [
+          {
+            "letter": "A",
+            "text": "Quimioterapia com ABVD (Adriamicina (doxorrubicina); bleomicina; vimblastina; dacarbazina) com radioterapia localizada",
+            "feedback": "Correto!",
+            "correct": true
+          },
+          {
+            "letter": "B",
+            "text": "Radioterapia isolada no local envolvido",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "C",
+            "text": "Quimioterapia baseada em BEACOPP",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "D",
+            "text": "Alta dose de interleucina-2",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "E",
+            "text": "Brentuximabe vedotina",
+            "feedback": "",
+            "correct": false
+          }
+        ],
+        "correctIndex": 0
+      },
+      {
+        "num": 7,
+        "text": "Um homem de 45 anos com linfoma de Hodgkin clássico avançado é tratado com o regime quimioterápico ABVD (Adriamicina (doxorrubicina); bleomicina; vimblastina; dacarbazina). Qual dos seguintes é um efeito colateral bem reconhecido e muitas vezes sério?",
+        "options": [
+          {
+            "letter": "A",
+            "text": "Níveis elevados de transaminases hepáticas",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "B",
+            "text": "Danos nos rins",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "C",
+            "text": "Inflamação dos pulmões (pneumonite)",
+            "feedback": "Correto!",
+            "correct": true
+          },
+          {
+            "letter": "D",
+            "text": "Inflamação do cólon (colite)",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "E",
+            "text": "Acuidade auditiva reduzida",
+            "feedback": "",
+            "correct": false
+          }
+        ],
+        "correctIndex": 2
+      },
+      {
+        "num": 8,
+        "text": "Uma mulher de 28 anos completou a quimioterapia para o linfoma de Hodgkin em estágio IIIA. Um linfonodo supraclavicular esquerdo de 2 cm permanece no exame e é observado na tomografia computadorizada, mas esse linfonodo não capta radioisótopo no PET. Como a paciente deve ser aconselhada?",
+        "options": [
+          {
+            "letter": "A",
+            "text": "Ela tem maior risco de recorrência em comparação a se todas as massas linfonodais tivessem desaparecido",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "B",
+            "text": "A biópsia excisional é necessária para determinar seu risco de recorrência",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "C",
+            "text": "Como o PET é negativo, seu risco de recorrência é baixo",
+            "feedback": "Correto!",
+            "correct": true
+          },
+          {
+            "letter": "D",
+            "text": "O linfonodo provavelmente representa uma infecção oportunista, e antibióticos serão necessários para sua resolução.",
+            "feedback": "",
+            "correct": false
+          }
+        ],
+        "correctIndex": 2
+      },
+      {
+        "num": 9,
+        "text": "Em 2023 aproximadamente qual porcentagem de pacientes está curada do linfoma de Hodgkin?",
+        "options": [
+          {
+            "letter": "A",
+            "text": "25-30%",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "B",
+            "text": "50-55%",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "C",
+            "text": "70-75%",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "D",
+            "text": "85-90%",
+            "feedback": "Correto!",
+            "correct": true
+          }
+        ],
+        "correctIndex": 3
+      },
+      {
+        "num": 10,
+        "text": "Uma mulher de 73 anos foi tratada há 7 anos para linfoma de Hodgkin com quimioterapia multiagente e radioterapia e, há 5 anos foi submetida a quimioterapia de resgate e transplante autólogo para recidiva da doença. Ela agora apresenta pancitopenia e neutrófilos hipogranulares binucleados são observados na circulação. Qual é o diagnóstico mais provável?",
+        "options": [
+          {
+            "letter": "A",
+            "text": "Recorrência do linfoma de Hodgkin",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "B",
+            "text": "Câncer de mama metastático envolvendo a medula",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "C",
+            "text": "Transformação em linfoma de células grandes",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "D",
+            "text": "Síndrome mielodisplásica relacionada à terapia",
+            "feedback": "Correto!",
+            "correct": true
+          }
+        ],
+        "correctIndex": 3
+      },
+      {
+        "num": 11,
+        "text": "Qual terapêutica direcionada é descrita na seguinte frase? “O fármaco se liga ao CD30 e está ligado (conjugado) a uma toxina celular. É útil no tratamento do linfoma de Hodgkin clássico e do linfoma anaplásico de células grandes”.",
+        "options": [
+          {
+            "letter": "A",
+            "text": "Rituximabe",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "B",
+            "text": "Brentuximabe vedotina",
+            "feedback": "Correto!",
+            "correct": true
+          },
+          {
+            "letter": "C",
+            "text": "Alentuzumabe",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "D",
+            "text": "Inotuzumabe ozogamicina",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "E",
+            "text": "Obinutuzumabe",
+            "feedback": "",
+            "correct": false
+          }
+        ],
+        "correctIndex": 1
+      },
+      {
+        "num": 12,
+        "text": "Qual é o mecanismo de ação do pembrolizumabe no tratamento do linfoma de Hodgkin recidivante?",
+        "options": [
+          {
+            "letter": "A",
+            "text": "Inibe a sinalização JAK-STAT, resultando na diminuição da proliferação de linfócitos.",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "B",
+            "text": "Bloqueia um sinal inibitório do checkpoint imunológico, resultando em mudanças no microambiente.",
+            "feedback": "Correto!",
+            "correct": true
+          },
+          {
+            "letter": "C",
+            "text": "Altera a desacetilação das histonas e os padrões epigenéticos e a expressão gênica.",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "D",
+            "text": "Liga-se a um antígeno da superfície celular e resulta em citotoxicidade mediada por células dependente de anticorpos.",
+            "feedback": "",
+            "correct": false
+          }
+        ],
+        "correctIndex": 1
+      },
+      {
+        "num": 13,
+        "text": "Qual é o escore de Deauville se a captação nodal for maior do que no mediastino, mas menor ou igual no fígado?",
+        "options": [
+          {
+            "letter": "A",
+            "text": "1",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "B",
+            "text": "2",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "C",
+            "text": "3",
+            "feedback": "Correto!",
+            "correct": true
+          },
+          {
+            "letter": "D",
+            "text": "4",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "E",
+            "text": "IV",
+            "feedback": "",
+            "correct": false
+          }
+        ],
+        "correctIndex": 2
+      },
+      {
+        "num": 14,
+        "text": "O linfoma de Hodgkin com predomínio de linfócitos nodulares difere do linfoma de Hodgkin clássico da seguinte maneira:",
+        "options": [
+          {
+            "letter": "A",
+            "text": "Pode se transformar em linfoma não Hodgkin de alto grau",
+            "feedback": "Correto!",
+            "correct": true
+          },
+          {
+            "letter": "B",
+            "text": "Afeta pessoas mais jovens",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "C",
+            "text": "É mais frequentemente curado com quimioterapia de primeira linha",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "D",
+            "text": "A PET é mais precisa no estadiamento da doença",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "E",
+            "text": "É mais comumente apresentado com doença mediastinal volumosa",
+            "feedback": "",
+            "correct": false
+          }
+        ],
+        "correctIndex": 0
+      },
+      {
+        "num": 15,
+        "text": "Uma mulher de 23 anos está prestes a iniciar a quimioterapia para o linfoma de Hodgkin clássico avançado. Qual das opções a seguir NÃO precisa ser considerada antes de ela começar:",
+        "options": [
+          {
+            "letter": "A",
+            "text": "Alertar o banco de sangue de que ela precisaria de hemoderivados irradiados no futuro",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "B",
+            "text": "Conversar sobre a possível preservação da fertilidade",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "C",
+            "text": "Ter cautela com a exposição excessiva à luz solar",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "D",
+            "text": "Aconselhar sobre um alto risco de queda de cabelo induzida por quimioterapia",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "E",
+            "text": "Evitar todas as formas de exercício durante o tratamento quimioterápico",
+            "feedback": "Correto!",
+            "correct": true
+          }
+        ],
+        "correctIndex": 4
+      },
+      {
+        "num": 16,
+        "text": "Qual dos seguintes sintomas é classificado como sintomas B?",
+        "options": [
+          {
+            "letter": "A",
+            "text": "Suores noturnos intensos",
+            "feedback": "Correto!",
+            "correct": true
+          },
+          {
+            "letter": "B",
+            "text": "Dor induzida por álcool nos linfonodos envolvidos",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "C",
+            "text": "Perda de peso inesperada de 5% do peso corporal basal em um período de 6 meses",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "D",
+            "text": "Prurido (coceira) que normalmente perturba o sono",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "E",
+            "text": "Obstrução da veia cava superior",
+            "feedback": "",
+            "correct": false
+          }
+        ],
+        "correctIndex": 0
+      }
+    ]
+  },
+  {
+    "chapter": 20,
+    "questions": [
+      {
+        "num": 1,
+        "text": "Qual é o linfoma mais frequente nos países ocidentais?",
+        "options": [
+          {
+            "letter": "A",
+            "text": "Linfoma folicular",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "B",
+            "text": "Linfoma difuso de grandes células B",
+            "feedback": "Correto!",
+            "correct": true
+          },
+          {
+            "letter": "C",
+            "text": "Linfoma de Hodgkin",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "D",
+            "text": "Linfoma da zona marginal",
+            "feedback": "",
+            "correct": false
+          }
+        ],
+        "correctIndex": 1
+      },
+      {
+        "num": 2,
+        "text": "Qual dos seguintes organismos está relacionado com o desenvolvimento do linfoma não Hodgkin do tecido linfoide associado à mucosa gástrica?",
+        "options": [
+          {
+            "letter": "A",
+            "text": "Chlamydia trachomatis",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "B",
+            "text": "Hepatite C",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "C",
+            "text": "Helicobacter pylori",
+            "feedback": "Correto!",
+            "correct": true
+          },
+          {
+            "letter": "D",
+            "text": "Corynebacterium striatum",
+            "feedback": "",
+            "correct": false
+          }
+        ],
+        "correctIndex": 2
+      },
+      {
+        "num": 3,
+        "text": "Qual dos seguintes é um linfoma de células T?",
+        "options": [
+          {
+            "letter": "A",
+            "text": "Micose fungoide",
+            "feedback": "Correto!",
+            "correct": true
+          },
+          {
+            "letter": "B",
+            "text": "Linfoma zona marginal",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "C",
+            "text": "Linfoma primário mediastinal de células grandes",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "D",
+            "text": "Linfoma de Burkitt",
+            "feedback": "",
+            "correct": false
+          }
+        ],
+        "correctIndex": 0
+      },
+      {
+        "num": 4,
+        "text": "Qual das seguintes afirmações é verdadeira para linfomas de baixo grau?",
+        "options": [
+          {
+            "letter": "A",
+            "text": "Muito raros em crianças",
+            "feedback": "Correto!",
+            "correct": true
+          },
+          {
+            "letter": "B",
+            "text": "Geralmente apresentam sintomas sistêmicos",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "C",
+            "text": "Incluem linfoma de Burkitt",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "D",
+            "text": "Geralmente são curados com imunoquimioterapia",
+            "feedback": "",
+            "correct": false
+          }
+        ],
+        "correctIndex": 0
+      },
+      {
+        "num": 5,
+        "text": "Qual é o estágio do linfoma não Hodgkin quando os linfonodos acima e abaixo do diafragma estão envolvidos sem disseminação extranodular?",
+        "options": [
+          {
+            "letter": "A",
+            "text": "I",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "B",
+            "text": "II",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "C",
+            "text": "III",
+            "feedback": "Correto!",
+            "correct": true
+          },
+          {
+            "letter": "D",
+            "text": "IV",
+            "feedback": "",
+            "correct": false
+          }
+        ],
+        "correctIndex": 2
+      },
+      {
+        "num": 6,
+        "text": "Qual das seguintes translocações está associada a um subtipo de linfoma de células T?",
+        "options": [
+          {
+            "letter": "A",
+            "text": "t(11;14)",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "B",
+            "text": "t(14;18)",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "C",
+            "text": "t(2;5)",
+            "feedback": "Correto!",
+            "correct": true
+          },
+          {
+            "letter": "D",
+            "text": "t(11;18)",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "E",
+            "text": "t(8;14)",
+            "feedback": "",
+            "correct": false
+          }
+        ],
+        "correctIndex": 2
+      },
+      {
+        "num": 7,
+        "text": "Qual dos seguintes testes é necessário para diagnosticar a maioria dos tipos de linfoma?",
+        "options": [
+          {
+            "letter": "A",
+            "text": "Aspiração com agulha fina do tecido afetado",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "B",
+            "text": "Biópsia por excisão do tecido afetado",
+            "feedback": "Correto!",
+            "correct": true
+          },
+          {
+            "letter": "C",
+            "text": "Biópsia com agulha da medula óssea",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "D",
+            "text": "Distensão de sangue",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "E",
+            "text": "18FDG- PET/TC",
+            "feedback": "",
+            "correct": false
+          }
+        ],
+        "correctIndex": 1
+      },
+      {
+        "num": 8,
+        "text": "Em relação à célula de origem dos distúrbios linfoides:",
+        "options": [
+          {
+            "letter": "A",
+            "text": "O local mais comum de desenvolvimento do linfoma é o centro germinativo dos linfonodos",
+            "feedback": "Correto!",
+            "correct": true
+          },
+          {
+            "letter": "B",
+            "text": "A maioria dos linfomas surge de uma célula T pós-tímica",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "C",
+            "text": "O linfoma folicular geralmente surge de uma célula B da zona marginal",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "D",
+            "text": "Quase todos os casos de linfoma difuso de grandes células B surgem da medula óssea",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "E",
+            "text": "O linfoma linfocítico pequeno geralmente surge do baço",
+            "feedback": "",
+            "correct": false
+          }
+        ],
+        "correctIndex": 0
+      }
+    ]
   }
 ]
