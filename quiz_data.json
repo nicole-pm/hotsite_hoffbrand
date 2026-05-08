@@ -8784,5 +8784,654 @@
         "correctIndex": 3
       }
     ]
+  },
+  {
+    "chapter": 24,
+    "questions": [
+      {
+        "num": 1,
+        "text": "Qual das seguintes opções geralmente causa pancitopenia?",
+        "options": [
+          {
+            "letter": "A",
+            "text": "Infecção por parvovírus",
+            "feedback": "Esse vírus infecta os eritrócitos e raramente afeta a linhagem de leucócitos ou plaquetas.",
+            "correct": false
+          },
+          {
+            "letter": "B",
+            "text": "Gravidez normal",
+            "feedback": "Esta geralmente causa trombocitopenia, e pode ocorrer anemia se houver deficiência de ferro, mas não pancitopenia.",
+            "correct": false
+          },
+          {
+            "letter": "C",
+            "text": "Leucemia mieloide aguda",
+            "feedback": "Correto! A LMA pode se manifestar com leucocitose, mas frequentemente (sobretudo em pacientes idosos) se apresenta clinicamente com a supressão de todas as linhagens de células sanguíneas.",
+            "correct": true
+          },
+          {
+            "letter": "D",
+            "text": "Medicamentos antitireoidianos",
+            "feedback": "Estes podem causar agranulocitose.",
+            "correct": false
+          }
+        ],
+        "correctIndex": 2
+      },
+      {
+        "num": 2,
+        "text": "Qual dos seguintes é uma causa recorrente de anemia aplástica?",
+        "options": [
+          {
+            "letter": "A",
+            "text": "Penicilina",
+            "feedback": "Nenhuma associação.",
+            "correct": false
+          },
+          {
+            "letter": "B",
+            "text": "Sulfonamida",
+            "feedback": "Correto! É um efeito colateral raro, mas perigoso.",
+            "correct": true
+          },
+          {
+            "letter": "C",
+            "text": "Quinina",
+            "feedback": "Associada à trombocitopenia",
+            "correct": false
+          },
+          {
+            "letter": "D",
+            "text": "Furosemida",
+            "feedback": "Esta causa agranulocitose ou trombocitopenia.",
+            "correct": false
+          }
+        ],
+        "correctIndex": 1
+      },
+      {
+        "num": 3,
+        "text": "Qual das seguintes opções está associada à aplasia eritroide “pura”?",
+        "options": [
+          {
+            "letter": "A",
+            "text": "Linfo-histiocitose hemofagocítica",
+            "feedback": "É uma causa de pancitopenia",
+            "correct": false
+          },
+          {
+            "letter": "B",
+            "text": "Metotrexato",
+            "feedback": "É uma causa de pancitopenia",
+            "correct": false
+          },
+          {
+            "letter": "C",
+            "text": "Timoma",
+            "feedback": "Correto! Tem associação clara com aplasia eritroide.",
+            "correct": true
+          },
+          {
+            "letter": "D",
+            "text": "Radiação ionizante",
+            "feedback": "É uma causa de pancitopenia",
+            "correct": false
+          }
+        ],
+        "correctIndex": 2
+      },
+      {
+        "num": 4,
+        "text": "Qual destes é uma característica do hemograma e da medula óssea em pacientes com anemia aplástica adquirida grave?",
+        "options": [
+          {
+            "letter": "A",
+            "text": "Crescimento rápido (“explosão”) de células anormais na distensão sanguínea",
+            "feedback": "Este é observado na leucemia aguda.",
+            "correct": false
+          },
+          {
+            "letter": "B",
+            "text": "Medula óssea hiperplásica",
+            "feedback": "Por definição, a medula é hipoplásica.",
+            "correct": false
+          },
+          {
+            "letter": "C",
+            "text": "Número reduzido, mas aparência normal, de neutrófilos na distensão sanguínea",
+            "feedback": "Correto!",
+            "correct": true
+          },
+          {
+            "letter": "D",
+            "text": "Contagem de linfócitos normal",
+            "feedback": "Esta geralmente é baixa na anemia aplástica grave.",
+            "correct": false
+          }
+        ],
+        "correctIndex": 2
+      },
+      {
+        "num": 5,
+        "text": "Qual dessas afirmações é VERDADEIRA em relação ao tratamento da anemia aplástica?",
+        "options": [
+          {
+            "letter": "A",
+            "text": "Os corticosteroides são a terapia inicial mais adequada.",
+            "feedback": "Os esteroides não são eficazes e devem ser evitados, exceto para reduzir os efeitos adversos da globulina antilinfocitária.",
+            "correct": false
+          },
+          {
+            "letter": "B",
+            "text": "Agentes estimulantes da eritropoiese são úteis no tratamento",
+            "feedback": "Eles são ineficazes devido à falta de precursores eritroides na medula.",
+            "correct": false
+          },
+          {
+            "letter": "C",
+            "text": "A globulina antilinfocitária é benéfica em quase todos os casos",
+            "feedback": "Apenas em metade dos casos.",
+            "correct": false
+          },
+          {
+            "letter": "D",
+            "text": "O eltrombopague pode estar indicado para tratamento",
+            "feedback": "Correto! Ele é aprovado pelas autoridades reguladoras para anemia aplástica recidivante e também pode ser útil na terapia de primeira linha.",
+            "correct": true
+          }
+        ],
+        "correctIndex": 3
+      },
+      {
+        "num": 6,
+        "text": "Qual das seguintes síndromes de insuficiência medular também inclui disfunção pancreática exócrina?",
+        "options": [
+          {
+            "letter": "A",
+            "text": "Anemia de Fanconi",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "B",
+            "text": "Síndrome de Shwachman-Diamond",
+            "feedback": "Correto!",
+            "correct": true
+          },
+          {
+            "letter": "C",
+            "text": "Síndrome de Blackfan-Diamond",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "D",
+            "text": "Deficiência de GATA2",
+            "feedback": "",
+            "correct": false
+          }
+        ],
+        "correctIndex": 1
+      },
+      {
+        "num": 7,
+        "text": "Qual dessas afirmações é VERDADEIRA em relação às anemias diseritropoiéticas congênitas?",
+        "options": [
+          {
+            "letter": "A",
+            "text": "Elas podem responder à piridoxina",
+            "feedback": "Isso é verdade para a anemia sideroblástica congênita.",
+            "correct": false
+          },
+          {
+            "letter": "B",
+            "text": "Elas mostram eritropoiese ineficaz e multinuclearidade de eritroblastos",
+            "feedback": "Correto!",
+            "correct": true
+          },
+          {
+            "letter": "C",
+            "text": "Elas geralmente são desencadeadas pela infecção pelo HIV",
+            "feedback": "Nenhuma associação.",
+            "correct": false
+          },
+          {
+            "letter": "D",
+            "text": "A anemia geralmente causa hidropsia fetal",
+            "feedback": "A anemia geralmente não é grave o suficiente no feto para causar isso.",
+            "correct": false
+          }
+        ],
+        "correctIndex": 1
+      },
+      {
+        "num": 8,
+        "text": "Qual dessas afirmações é VERDADEIRA em relação à anemia de Fanconi?",
+        "options": [
+          {
+            "letter": "A",
+            "text": "Pode ser devida a uma mutação no gene ATM",
+            "feedback": "Há mais de 16 variantes genéticas diferentes, mas elas não incluem o gene ATM.",
+            "correct": false
+          },
+          {
+            "letter": "B",
+            "text": "O teste diagnóstico é elevação da quebra cromossômica após a incubação de linfócitos do sangue periférico com um agente de entrecruzamento de DNA, como o diepoxibutano (teste DEB)",
+            "feedback": "Correto!",
+            "correct": true
+          },
+          {
+            "letter": "C",
+            "text": "Está associada a anormalidades cardíacas.",
+            "feedback": "Não há associação.",
+            "correct": false
+          },
+          {
+            "letter": "D",
+            "text": "Mais comumente, há uma herança ligada ao sexo",
+            "feedback": "A maioria das formas tem herança autossômica recessiva.",
+            "correct": false
+          }
+        ],
+        "correctIndex": 1
+      },
+      {
+        "num": 9,
+        "text": "Qual dessas anormalidades é uma característica típica da anemia de Fanconi?",
+        "options": [
+          {
+            "letter": "A",
+            "text": "Deficiência imune",
+            "feedback": "Esta não é uma característica, mas o é em algumas outras síndromes hereditárias de insuficiência medular, como as mutações da linha germinativa GATA2.",
+            "correct": false
+          },
+          {
+            "letter": "B",
+            "text": "Anormalidades nas unhas das mãos e dos pés",
+            "feedback": "Esta é uma característica da disceratose congênita, não da anemia de Fanconi.",
+            "correct": false
+          },
+          {
+            "letter": "C",
+            "text": "Pigmentação anormal da pele",
+            "feedback": "Correto! Uma característica típica.",
+            "correct": true
+          },
+          {
+            "letter": "D",
+            "text": "Aumento da expressão zeta da hemoglobina",
+            "feedback": "",
+            "correct": false
+          }
+        ],
+        "correctIndex": 2
+      },
+      {
+        "num": 10,
+        "text": "Qual das afirmações a seguir NÃO É VERDADEIRA sobre a hemoglobinúria paroxística noturna?",
+        "options": [
+          {
+            "letter": "A",
+            "text": "Pode ocorrer deficiência de ferro devido à doença",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "B",
+            "text": "O diagnóstico geralmente é feito por citometria de fluxo",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "C",
+            "text": "As tromboses venosas são frequentes",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "D",
+            "text": "A anemia responde aos anticorpos contra o complemento C1",
+            "feedback": "Correto! Responde aos anticorpos contra C3 e C5.",
+            "correct": true
+          }
+        ],
+        "correctIndex": 3
+      }
+    ]
+  },
+  {
+    "chapter": 25,
+    "questions": [
+      {
+        "num": 1,
+        "text": "Qual dos seguintes fármacos é tipicamente administrado após transplantes alogênicos de células-tronco para reduzir o risco de doença do enxerto versus hospedeiro?",
+        "options": [
+          {
+            "letter": "A",
+            "text": "Ciclosporina",
+            "feedback": "Correto! Este inibidor da calcineurina é frequentemente usado em conjunto com o metotrexato para prevenir a doença aguda do enxerto versus hospedeiro.",
+            "correct": true
+          },
+          {
+            "letter": "B",
+            "text": "Glicocorticosteroides",
+            "feedback": "Não é usado.",
+            "correct": false
+          }
+        ],
+        "correctIndex": 0
+      },
+      {
+        "num": 2,
+        "text": "Qual das seguintes opções é uma vantagem potencial do transplante alogênico de células-tronco em comparação com o transplante autólogo para um paciente jovem com mieloma múltiplo?",
+        "options": [
+          {
+            "letter": "A",
+            "text": "É mais conveniente obter células-tronco de um doador saudável, pois geralmente não é possível obter células-tronco adequadas de um paciente com mieloma",
+            "feedback": "Geralmente, é possível obter um número suficiente de células-tronco de pacientes com mieloma múltiplo.",
+            "correct": false
+          },
+          {
+            "letter": "B",
+            "text": "As células-tronco retiradas do paciente são inferiores em reconstituir um sistema imune adequado e, portanto, as complicações infecciosas são mais comuns após o transplante autólogo",
+            "feedback": "A imunossupressão necessária após o transplante alogênico significa que as complicações infecciosas são mais graves nesse cenário.",
+            "correct": false
+          },
+          {
+            "letter": "C",
+            "text": "O efeito enxerto versus leucemia do transplante alogênico de células-tronco significa que existe a possibilidade de curar o mieloma múltiplo",
+            "feedback": "Correto! Isso é verdade, mas muitos pacientes ainda recaem após o transplante, e os riscos de efeitos adversos são substanciais.",
+            "correct": true
+          },
+          {
+            "letter": "D",
+            "text": "Está associado a uma menor mortalidade relacionada ao transplante",
+            "feedback": "O risco de morte é muito maior com o transplante alogênico.",
+            "correct": false
+          }
+        ],
+        "correctIndex": 2
+      },
+      {
+        "num": 3,
+        "text": "Qual desses indivíduos pode ser considerado o doador de células-tronco mais adequado para um paciente adulto com leucemia mieloide aguda em primeira remissão?",
+        "options": [
+          {
+            "letter": "A",
+            "text": "Gêmeo idêntico",
+            "feedback": "Como o doador é geneticamente idêntico ao paciente, não haveria efeito enxerto versus leucemia, e isso reduziria significativamente a chance de cura da doença.",
+            "correct": false
+          },
+          {
+            "letter": "B",
+            "text": "Um doador não relacionado HLA-compatível",
+            "feedback": "Há um risco aumentado de doença do enxerto versus hospedeiro com um doador não relacionado.",
+            "correct": false
+          },
+          {
+            "letter": "C",
+            "text": "Um irmão doador HLA-compatível",
+            "feedback": "Correto! Este ofereceria o grau ideal de incompatibilidade alorreativa para permitir o desenvolvimento de um grau de enxerto versus leucemia, que provavelmente será necessário para curar casos de leucemia aguda recidivante.",
+            "correct": true
+          },
+          {
+            "letter": "D",
+            "text": "Doação de células-tronco do cordão umbilical",
+            "feedback": "Há um atraso no enxerto e na reconstituição imune e, muitas vezes, é necessária uma segunda unidade do cordão umbilical para uma dose suficiente de células-tronco.",
+            "correct": false
+          }
+        ],
+        "correctIndex": 2
+      },
+      {
+        "num": 4,
+        "text": "Qual infecção viral tem maior probabilidade de ser responsável por um quadro clínico de febre e infiltração pulmonar 6 semanas após um transplante alogênico de células-tronco?",
+        "options": [
+          {
+            "letter": "A",
+            "text": "Citomegalovírus",
+            "feedback": "Correto! A reativação viral é comum nos primeiros 3 meses após o transplante.",
+            "correct": true
+          },
+          {
+            "letter": "B",
+            "text": "Vírus da varicela-zóster",
+            "feedback": "Este geralmente causa herpes-zóster, embora possa ocorrer infecção sistêmica.",
+            "correct": false
+          },
+          {
+            "letter": "C",
+            "text": "Vírus do herpes simples",
+            "feedback": "Este tende a causar problemas clínicos na forma de úlceras na boca e herpes labial.",
+            "correct": false
+          },
+          {
+            "letter": "D",
+            "text": "Vírus influenza",
+            "feedback": "",
+            "correct": false
+          }
+        ],
+        "correctIndex": 0
+      },
+      {
+        "num": 5,
+        "text": "Quais desses pacientes podem ser considerados mais adequados para o transplante autólogo de células-tronco?",
+        "options": [
+          {
+            "letter": "A",
+            "text": "Uma criança com imunodeficiência hereditária",
+            "feedback": "Não é curável.",
+            "correct": false
+          },
+          {
+            "letter": "B",
+            "text": "Uma pessoa de 40 anos com recidiva de leucemia mieloide aguda",
+            "feedback": "O transplante alogênico oferece possibilidade de cura.",
+            "correct": false
+          },
+          {
+            "letter": "C",
+            "text": "Uma criança de 6 anos com talassemia maior",
+            "feedback": "Não é curável.",
+            "correct": false
+          },
+          {
+            "letter": "D",
+            "text": "Uma mulher de 57 anos com mieloma",
+            "feedback": "Correto! Os autoenxertos são geralmente considerados uma parte ideal da terapia para pacientes com menos de 70 anos de idade.",
+            "correct": true
+          }
+        ],
+        "correctIndex": 3
+      },
+      {
+        "num": 6,
+        "text": "Qual destes é mais útil para avaliar se uma doação de células-tronco tem um número adequado de células-tronco antes do transplante?",
+        "options": [
+          {
+            "letter": "A",
+            "text": "A depleção relativa das células T",
+            "feedback": "Esta só é útil para avaliar o potencial de doença do enxerto versus hospedeiro.",
+            "correct": false
+          },
+          {
+            "letter": "B",
+            "text": "O número de células CD34+ no enxerto",
+            "feedback": "Correto! CD34+ é um marcador de células-tronco.",
+            "correct": true
+          },
+          {
+            "letter": "C",
+            "text": "O número de células mieloides CD33+ no enxerto",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "D",
+            "text": "A contagem total de células nucleadas",
+            "feedback": "A contagem total de células não é um bom guia para o potencial das células-tronco.",
+            "correct": false
+          }
+        ],
+        "correctIndex": 1
+      },
+      {
+        "num": 7,
+        "text": "Qual destes é uma vantagem clínica do transplante autólogo de células-tronco em relação ao transplante alogênico?",
+        "options": [
+          {
+            "letter": "A",
+            "text": "As células-tronco são coletadas após a quimioterapia e, portanto, há menos contaminação pelas células tumorais",
+            "feedback": "Os doadores alogênicos não têm células tumorais.",
+            "correct": false
+          },
+          {
+            "letter": "B",
+            "text": "Há menos oportunidades de doença do enxerto versus hospedeiro",
+            "feedback": "Correto! Assim, a mortalidade relacionada ao transplante nos primeiros 100 dias é significativamente reduzida.",
+            "correct": true
+          },
+          {
+            "letter": "C",
+            "text": "Há mais chances de alcançar um resultado curativo",
+            "feedback": "O transplante alogênico de células-tronco é mais curativo.",
+            "correct": false
+          },
+          {
+            "letter": "D",
+            "text": "A ciclosporina pode ser reduzida mais rapidamente após transplantes autólogos",
+            "feedback": "Isso não é necessário para transplantes autólogos.",
+            "correct": false
+          }
+        ],
+        "correctIndex": 1
+      },
+      {
+        "num": 8,
+        "text": "Qual destes é o quadro clínico mais típico da doença aguda do enxerto versus hospedeiro?",
+        "options": [
+          {
+            "letter": "A",
+            "text": "Erupção cutânea eritematosa e aumento do nível de bilirrubina",
+            "feedback": "Correto! A doença aguda do enxerto versus hospedeiro tende a afetar a pele, o fígado e o intestino.",
+            "correct": true
+          },
+          {
+            "letter": "B",
+            "text": "Insuficiência renal e urticária",
+            "feedback": "Insuficiência renal e urticária não são características.",
+            "correct": false
+          },
+          {
+            "letter": "C",
+            "text": "Úlceras bucais e contraturas articulares",
+            "feedback": "Estas são características da doença crônica do enxerto versus hospedeiro, não aguda.",
+            "correct": false
+          },
+          {
+            "letter": "D",
+            "text": "Imunodeficiência e fibrose pulmonar",
+            "feedback": "Embora ambas as formas de DEVH tenham deficiência imunológica, a fibrose pulmonar é típica da doença crônica do enxerto versus do hospedeiro, não aguda.",
+            "correct": false
+          }
+        ],
+        "correctIndex": 0
+      },
+      {
+        "num": 9,
+        "text": "Qual dessas afirmações é VERDADEIRA em relação às infusões de leucócitos de doadores (ILD)?",
+        "options": [
+          {
+            "letter": "A",
+            "text": "A dose administrada é calculada pelo número de células B na infusão.",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "B",
+            "text": "Este tratamento pode curar a leucemia mieloide crônica, desde que a quimioterapia também seja administrada.",
+            "feedback": "Pode curar mesmo sem quimioterapia adicional.",
+            "correct": false
+          },
+          {
+            "letter": "C",
+            "text": "A ILD é administrada como uma infusão intravenosa, mais ou menos como uma transfusão de sangue.",
+            "feedback": "Correto.",
+            "correct": true
+          },
+          {
+            "letter": "D",
+            "text": "A ILD administrada logo após o transplante tem um risco reduzido de causar doença do enxerto versus hospedeiro",
+            "feedback": "O contrário é verdadeiro.",
+            "correct": false
+          }
+        ],
+        "correctIndex": 2
+      },
+      {
+        "num": 10,
+        "text": "Qual dessas doenças pode ser tratada por transplante autólogo de células-tronco usando células-tronco colhidas nas quais o defeito genético subjacente foi corrigido in vitro?",
+        "options": [
+          {
+            "letter": "A",
+            "text": "Hemofilia",
+            "feedback": "A terapia gênica para hemofilia é possível, mas geralmente é feita por meio da infusão de vetores de vírus contendo o gene intacto que codifica o fator de coagulação deficiente, sem a necessidade de colher células-tronco. O vetor carrega o gene para o fígado.",
+            "correct": false
+          },
+          {
+            "letter": "B",
+            "text": "Anemia de Fanconi",
+            "feedback": "A terapia gênica para a anemia de Fanconi ainda não foi concluída.",
+            "correct": false
+          },
+          {
+            "letter": "C",
+            "text": "Talassemia maior",
+            "feedback": "Correto!",
+            "correct": true
+          },
+          {
+            "letter": "D",
+            "text": "Leucemia mieloide aguda",
+            "feedback": "A terapia gênica ainda não é possível para a LMA.",
+            "correct": false
+          }
+        ],
+        "correctIndex": 2
+      },
+      {
+        "num": 11,
+        "text": "Qual das afirmações a seguir é verdadeira sobre a ciclofosfamida pós-transplante?",
+        "options": [
+          {
+            "letter": "A",
+            "text": "É indicada apenas para transplantes de células-tronco haploidênticas.",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "B",
+            "text": "É usada para prevenir doenças agudas do enxerto versus hospedeiro",
+            "feedback": "Correto!",
+            "correct": true
+          },
+          {
+            "letter": "C",
+            "text": "Aumenta o risco de recidiva da doença",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "D",
+            "text": "Está associada à falha do enxerto",
+            "feedback": "",
+            "correct": false
+          }
+        ],
+        "correctIndex": 1
+      }
+    ]
   }
 ]
