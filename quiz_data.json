@@ -5847,5 +5847,419 @@
         "correctIndex": 0
       }
     ]
+  },
+  {
+    "chapter": 17,
+    "questions": [
+      {
+        "num": 1,
+        "text": "Qual dos seguintes marcadores é mais comumente expresso na superfície dos blastos na leucemia linfoblástica aguda de células B?",
+        "options": [
+          {
+            "letter": "A",
+            "text": "CD3",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "B",
+            "text": "CD19",
+            "feedback": "Correto!",
+            "correct": true
+          },
+          {
+            "letter": "C",
+            "text": "CD20",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "D",
+            "text": "CD33",
+            "feedback": "",
+            "correct": false
+          }
+        ],
+        "correctIndex": 1
+      },
+      {
+        "num": 2,
+        "text": "Qual das alternativas a seguir é a apresentação clínica mais provável de uma criança com leucemia linfoblástica aguda?",
+        "options": [
+          {
+            "letter": "A",
+            "text": "História de 6 meses de fadiga e infecções repetidas do trato respiratório superior",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "B",
+            "text": "Falta de apetite e dor abdominal resultantes do baço edemaciado",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "C",
+            "text": "Gengivas inchadas na boca e nódulos vermelhos na pele",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "D",
+            "text": "História recente de equimoses e sufusões fáceis, palidez e cansaço",
+            "feedback": "Correto!",
+            "correct": true
+          }
+        ],
+        "correctIndex": 3
+      },
+      {
+        "num": 3,
+        "text": "Qual das seguintes afirmações é verdadeira em relação à etiologia da leucemia linfoblástica aguda (LLA)?",
+        "options": [
+          {
+            "letter": "A",
+            "text": "Há um aumento na incidência de LLA em crianças que frequentam creches no início da vida",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "B",
+            "text": "Quase todas as crianças com translocação ETV6-RUNX1 desenvolvem LLA clínica",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "C",
+            "text": "Não há incidência familiar aumentada",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "D",
+            "text": "Acredita-se que a primeira mutação ocorra in utero na maioria dos casos de LLA diagnosticada antes dos 5 anos de idade",
+            "feedback": "Correto!",
+            "correct": true
+          }
+        ],
+        "correctIndex": 3
+      },
+      {
+        "num": 4,
+        "text": "Qual dos seguintes genes tem maior probabilidade de mutação na leucemia linfoblástica aguda (LLA) de células T?",
+        "options": [
+          {
+            "letter": "A",
+            "text": "ABL1",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "B",
+            "text": "NOTCH1",
+            "feedback": "Correto!",
+            "correct": true
+          },
+          {
+            "letter": "C",
+            "text": "MYC",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "D",
+            "text": "TP53",
+            "feedback": "",
+            "correct": false
+          }
+        ],
+        "correctIndex": 1
+      },
+      {
+        "num": 5,
+        "text": "Qual dos seguintes padrões citogenéticos está associado ao melhor prognóstico na leucemia linfoblástica aguda?",
+        "options": [
+          {
+            "letter": "A",
+            "text": "Hiperdiploidia",
+            "feedback": "Correto!",
+            "correct": true
+          },
+          {
+            "letter": "B",
+            "text": "Translocação do gene KMT2A (MLL)",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "C",
+            "text": "Cromossomo Filadélfia",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "D",
+            "text": "Hipodiploidia",
+            "feedback": "",
+            "correct": false
+          }
+        ],
+        "correctIndex": 0
+      },
+      {
+        "num": 6,
+        "text": "Para pacientes com leucemia linfoblástica aguda, qual das seguintes opções está associada à maior probabilidade de recidiva subsequente?",
+        "options": [
+          {
+            "letter": "A",
+            "text": "Expressão de CD20 em blastos ao diagnóstico",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "B",
+            "text": "Envolvimento extramedular ao diagnóstico",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "C",
+            "text": "Anemia persistente 6 semanas após o início da terapia",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "D",
+            "text": "Doença residual mínima é detectável após a primeira consolidação",
+            "feedback": "Correto!",
+            "correct": true
+          }
+        ],
+        "correctIndex": 3
+      },
+      {
+        "num": 7,
+        "text": "Uma mulher de 44 anos foi diagnosticada com leucemia linfoblástica aguda de células B há 1 dia após apresentar fadiga, dispneia e dor óssea. Seu médico deseja inscrevê-la em um ensaio clínico, mas seus níveis de transaminases séricas (ALT e AST) estão um pouco acima do nível de elegibilidade. Qual das seguintes terapias é the most apropriada no momento?",
+        "options": [
+          {
+            "letter": "A",
+            "text": "Corticosteroides",
+            "feedback": "Correto!",
+            "correct": true
+          },
+          {
+            "letter": "B",
+            "text": "Asparaginase",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "C",
+            "text": "Rituximabe",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "D",
+            "text": "Daunorrubicina",
+            "feedback": "",
+            "correct": false
+          }
+        ],
+        "correctIndex": 0
+      },
+      {
+        "num": 8,
+        "text": "Qual dos seguintes é o local mais comum de recidiva extramedular na leucemia linfoblástica aguda?",
+        "options": [
+          {
+            "letter": "A",
+            "text": "Glândulas suprarenais",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "B",
+            "text": "Pulmão",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "C",
+            "text": "Sistema nervoso central",
+            "feedback": "Correto!",
+            "correct": true
+          },
+          {
+            "letter": "D",
+            "text": "Fígado",
+            "feedback": "",
+            "correct": false
+          }
+        ],
+        "correctIndex": 2
+      },
+      {
+        "num": 9,
+        "text": "Qual das afirmações a seguir é mais precisa em relação à leucemia linfoblástica aguda associada ao cromossomo Filadélfia?",
+        "options": [
+          {
+            "letter": "A",
+            "text": "Os inibidores da tirosina-cinase devem ser usados isoladamente e geralmente fornecem controle de longo prazo.",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "B",
+            "text": "Os inibidores da tirosina-cinase melhoraram o prognóstico.",
+            "feedback": "Correto!",
+            "correct": true
+          },
+          {
+            "letter": "C",
+            "text": "Os inibidores da tirosina-cinase evitam a necessidade de considerar o transplante alogênico de células-tronco.",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "D",
+            "text": "Esse subtipo de LLA geralmente surge da leucemia mieloide crônica.",
+            "feedback": "",
+            "correct": false
+          }
+        ],
+        "correctIndex": 1
+      },
+      {
+        "num": 10,
+        "text": "Qual das seguintes opções é necessária após a terapia com células T com receptor de antígeno quimérico (CAR) para leucemia linfoblástica aguda recidivante?",
+        "options": [
+          {
+            "letter": "A",
+            "text": "2 anos de manutenção com mercaptopurina",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "B",
+            "text": "Terapia de consolidação com blinatumomabe",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "C",
+            "text": "Terapia antifúngica profilática",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "D",
+            "text": "Terapia de reposição de imunoglobulina",
+            "feedback": "Correto!",
+            "correct": true
+          }
+        ],
+        "correctIndex": 3
+      },
+      {
+        "num": 11,
+        "text": "Qual dos seguintes medicamentos é eficaz no tratamento da leucemia linfoblástica aguda de células T?",
+        "options": [
+          {
+            "letter": "A",
+            "text": "Blinatumomabe",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "B",
+            "text": "Rituximabe",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "C",
+            "text": "Metotrexato",
+            "feedback": "Correto!",
+            "correct": true
+          },
+          {
+            "letter": "D",
+            "text": "Obinutuzumabe",
+            "feedback": "",
+            "correct": false
+          }
+        ],
+        "correctIndex": 2
+      },
+      {
+        "num": 12,
+        "text": "Uma mulher de 32 anos foi tratada com leucemia linfoblástica aguda há 2 anos. Ela agora teve uma recidiva. Seus blastos expressam CD10, CD22, desoxinucleotidil-transferase terminal, CD20 (subconjunto) e CD19 (subconjunto). Com base no mecanismo de ação, qual das seguintes terapias é the most apropriada para esse paciente?",
+        "options": [
+          {
+            "letter": "A",
+            "text": "Ibrutinibe",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "B",
+            "text": "Células T do receptor de antígeno quimérico (CAR-T) anti-CD-19",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "C",
+            "text": "Blinatumomabe",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "D",
+            "text": "Inotuzumabe ozogamicina",
+            "feedback": "Correto!",
+            "correct": true
+          },
+          {
+            "letter": "E",
+            "text": "Ofatumomabe",
+            "feedback": "",
+            "correct": false
+          }
+        ],
+        "correctIndex": 3
+      },
+      {
+        "num": 13,
+        "text": "Qual das seguintes afirmações é verdadeira sobre a leucemia linfoblástica aguda de células B na infância?",
+        "options": [
+          {
+            "letter": "A",
+            "text": "É mais frequente em homens do que em mulheres",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "B",
+            "text": "A sobrevida em crianças entre 2 e 10 anos é agora de cerca de 75%",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "C",
+            "text": "A idade máxima de início é de 2 a 3 anos",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "D",
+            "text": "As mulheres têm um prognóstico melhor do que os homens",
+            "feedback": "Correto!",
+            "correct": true
+          }
+        ],
+        "correctIndex": 3
+      }
+    ]
   }
 ]
