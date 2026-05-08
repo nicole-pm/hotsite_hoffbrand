@@ -17,7 +17,8 @@
     14: 'Leucemia mieloide crônica',
     15: 'Neoplasias mieloproliferativas',
     16: 'Neoplasias mielodisplásicas',
-    17: 'Leucemia linfoblástica aguda'
+    17: 'Leucemia linfoblástica aguda',
+    18: 'Leucemias linfocíticas crônicas'
   };
   
   const data = window.__QUIZ_DATA__;
@@ -54,7 +55,7 @@
         <div class="quiz-header">
           <div>
             <h3>Quiz interativo de Hematologia</h3>
-            <div class="sub">Pontuação por capítulo · feedback imediato a cada resposta · 17 capítulos disponíveis.</div>
+            <div class="sub">Pontuação por capítulo · feedback imediato a cada resposta · 18 capítulos disponíveis.</div>
           </div>
           <div class="quiz-stats">
             <div class="stat-pill">

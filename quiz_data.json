@@ -6261,5 +6261,623 @@
         "correctIndex": 3
       }
     ]
+  },
+  {
+    "chapter": 18,
+    "questions": [
+      {
+        "num": 1,
+        "text": "Qual das seguintes é uma característica favorável na leucemia linfocítica crônica?",
+        "options": [
+          {
+            "letter": "A",
+            "text": "Idade jovem",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "B",
+            "text": "Estágio de Binet B ou C",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "C",
+            "text": "Mutação somática do gene da cadeia pesada da imunoglobulina",
+            "feedback": "Correto!",
+            "correct": true
+          },
+          {
+            "letter": "D",
+            "text": "Mutação TP53",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "E",
+            "text": "Tempo de duplicação da contagem linfocítica sanguínea de 6 meses",
+            "feedback": "",
+            "correct": false
+          }
+        ],
+        "correctIndex": 2
+      },
+      {
+        "num": 2,
+        "text": "Qual dos seguintes resultados de citometria de fluxo é mais provável em um paciente com leucemia linfocítica crônica?",
+        "options": [
+          {
+            "letter": "A",
+            "text": "CD5+, CD19+, CD20+ (fraco)",
+            "feedback": "Correto!",
+            "correct": true
+          },
+          {
+            "letter": "B",
+            "text": "Imunoglobulina de superfície +, CD5+, ciclina D1+",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "C",
+            "text": "CD10+, CD20+, FMC7+",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "D",
+            "text": "CD11c+, CD25+, CD103+",
+            "feedback": "",
+            "correct": false
+          }
+        ],
+        "correctIndex": 0
+      },
+      {
+        "num": 3,
+        "text": "Qual das seguintes opções é uma característica da leucemia linfocítica crônica?",
+        "options": [
+          {
+            "letter": "A",
+            "text": "Risco aumentado de infecção por herpes-zóster",
+            "feedback": "Correto!",
+            "correct": true
+          },
+          {
+            "letter": "B",
+            "text": "Envolvimento meníngeo frequente",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "C",
+            "text": "Aumento de linfoblastos na medula óssea",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "D",
+            "text": "Lesões ósseas líticas",
+            "feedback": "",
+            "correct": false
+          }
+        ],
+        "correctIndex": 0
+      },
+      {
+        "num": 4,
+        "text": "Qual dos seguintes é o alvo do venetoclax?",
+        "options": [
+          {
+            "letter": "A",
+            "text": "Fosfatidilinositol-3-cinase (PI3K)",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "B",
+            "text": "Tirosina-cinase de Bruton (BTK)",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "C",
+            "text": "BCL2",
+            "feedback": "Correto!",
+            "correct": true
+          },
+          {
+            "letter": "D",
+            "text": "MCL1",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "E",
+            "text": "CD20",
+            "feedback": "",
+            "correct": false
+          }
+        ],
+        "correctIndex": 2
+      },
+      {
+        "num": 5,
+        "text": "Qual das seguintes afirmações é verdadeira em relação à epidemiologia da leucemia linfocítica crônica?",
+        "options": [
+          {
+            "letter": "A",
+            "text": "É mais comum na China e no Japão",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "B",
+            "text": "Tem um pico bimodal de incidência aos 50 e 80 anos",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "C",
+            "text": "Tem uma frequência aumentada em parentes de primeiro grau dos indivíduos afetados",
+            "feedback": "Correto!",
+            "correct": true
+          },
+          {
+            "letter": "D",
+            "text": "A incidência aumenta após a quimioterapia com agente alquilante",
+            "feedback": "",
+            "correct": false
+          }
+        ],
+        "correctIndex": 2
+      },
+      {
+        "num": 6,
+        "text": "Um homem de 72 anos é encaminhado para avaliação hematológica devido a uma contagem de linfócitos de 4,8 × 109/L. A citometria de fluxo mostra uma população de linfócitos que são restritos à cadeia leve kappa e expressam CD5. A hemoglobina e a contagem de plaquetas são normais. Não há adenopatia periférica ou hepatoesplenomegalia. Qual dos seguintes é o diagnóstico mais provável?",
+        "options": [
+          {
+            "letter": "A",
+            "text": "Leucemia linfocítica crônica de células B (LLC-B)",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "B",
+            "text": "Linfocitose de células B monoclonal",
+            "feedback": "Correto!",
+            "correct": true
+          },
+          {
+            "letter": "C",
+            "text": "Proteína C-reativa",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "D",
+            "text": "Linfoma não Hodgkin",
+            "feedback": "",
+            "correct": false
+          }
+        ],
+        "correctIndex": 1
+      },
+      {
+        "num": 7,
+        "text": "Uma mulher de 47 anos apresenta pneumonia lobar e uma contagem de neutrófilos de 0,2 × 109/L. A avaliação subsequente, incluindo citometria de fluxo e ensaio de rearranjo do gene do receptor de células T, leva ao diagnóstico de leucemia de grandes linfócitos granulares de células T (GLG-T). Qual das alternativas a seguir é a terapia inicial mais apropriada para esse paciente?",
+        "options": [
+          {
+            "letter": "A",
+            "text": "Metotrexato",
+            "feedback": "Correto!",
+            "correct": true
+          },
+          {
+            "letter": "B",
+            "text": "Cladribina",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "C",
+            "text": "Globulina antitimocitária",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "D",
+            "text": "Rituximabe",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "E",
+            "text": "Alentuzumabe",
+            "feedback": "",
+            "correct": false
+          }
+        ],
+        "correctIndex": 0
+      },
+      {
+        "num": 8,
+        "text": "Qual das seguintes é uma complicação imunológica comum da leucemia linfocítica crônica?",
+        "options": [
+          {
+            "letter": "A",
+            "text": "Trombocitopenia imune crônica",
+            "feedback": "Correto!",
+            "correct": true
+          },
+          {
+            "letter": "B",
+            "text": "Polisserosite",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "C",
+            "text": "Polimialgia reumática",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "D",
+            "text": "Artrite reumatoide",
+            "feedback": "",
+            "correct": false
+          }
+        ],
+        "correctIndex": 0
+      },
+      {
+        "num": 9,
+        "text": "Qual dos seguintes efeitos adversos deve ser considerado quando o venetoclax é usado para tratar a leucemia linfocítica crônica?",
+        "options": [
+          {
+            "letter": "A",
+            "text": "Hipogamaglobulinemia",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "B",
+            "text": "Recidiva de um subclone CD19-negativo",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "C",
+            "text": "Fibrilação atrial",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "D",
+            "text": "Síndrome de lise tumoral",
+            "feedback": "Correto!",
+            "correct": true
+          }
+        ],
+        "correctIndex": 3
+      },
+      {
+        "num": 10,
+        "text": "Um homem de 62 anos é diagnosticado com leucemia linfocítica crônica. Ele tem adenopatia e esplenomegalia extensas, bem como trombocitopenia. O ensaio de hibridização fluorescente in situ revela a deleção do cromossomo 17p. Qual das alternativas a seguir é a terapia inicial mais apropriada?",
+        "options": [
+          {
+            "letter": "A",
+            "text": "Ibrutinibe, acalabrutinibe ou zanabrutinibe",
+            "feedback": "Correto!",
+            "correct": true
+          },
+          {
+            "letter": "B",
+            "text": "Bendamustina e rituximabe",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "C",
+            "text": "Fludarabina, ciclofosfamida e rituximabe",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "D",
+            "text": "Clorambucila e obinutuzumabe",
+            "feedback": "",
+            "correct": false
+          }
+        ],
+        "correctIndex": 0
+      },
+      {
+        "num": 11,
+        "text": "Qual dos seguintes pacientes tem maior probabilidade de ter leucemia de células pilosas (tricoleucemia)?",
+        "options": [
+          {
+            "letter": "A",
+            "text": "Homem de 50 anos com infecção e distensão abdominal. Hemograma mostra pancitopenia e monocitopenia",
+            "feedback": "Correto!",
+            "correct": true
+          },
+          {
+            "letter": "B",
+            "text": "Mulher de 70 anos com anemia e contagem de leucócitos de 70 x 109/L",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "C",
+            "text": "Homem de 30 anos com anemia e trombocitopenia acentuada",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "D",
+            "text": "Mulher de 40 anos com linfonodomegalia no lado esquerdo do pescoço e aumento da contagem de plaquetas na distensão sanguínea",
+            "feedback": "",
+            "correct": false
+          }
+        ],
+        "correctIndex": 0
+      },
+      {
+        "num": 12,
+        "text": "Um homem de 67 anos com artrite reumatoide apresenta neutropenia. O hemograma mostra uma linfocitose leve com um aumento do número de células que expressam CD3, CD16 e CD57. Estudo de rearranjo de genes de células T mostra uma banda clonal. Qual é o diagnóstico nesse caso?",
+        "options": [
+          {
+            "letter": "A",
+            "text": "Síndrome de Sézary",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "B",
+            "text": "Leucemia de linfócitos grandes e granulares",
+            "feedback": "Correto!",
+            "correct": true
+          },
+          {
+            "letter": "C",
+            "text": "Mononucleose infecciosa",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "D",
+            "text": "Leucemia linfocítica crônica",
+            "feedback": "",
+            "correct": false
+          }
+        ],
+        "correctIndex": 1
+      },
+      {
+        "num": 13,
+        "text": "Qual das seguintes afirmações é verdadeira em relação ao linfoma de leucemia de células T em adultos?",
+        "options": [
+          {
+            "letter": "A",
+            "text": "Geralmente é curado com o regime de quimioterapia CHOP",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "B",
+            "text": "É mais comumente causado pela infecção pelo HIV",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "C",
+            "text": "As células tumorais têm um fenótipo CD4+ CD25+",
+            "feedback": "Correto!",
+            "correct": true
+          },
+          {
+            "letter": "D",
+            "text": "É comumente associado a hipocalcemia na apresentação",
+            "feedback": "",
+            "correct": false
+          }
+        ],
+        "correctIndex": 2
+      },
+      {
+        "num": 14,
+        "text": "Qual dos seguintes é o alvo molecular do ibrutinibe?",
+        "options": [
+          {
+            "letter": "A",
+            "text": "CD19",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "B",
+            "text": "TP53",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "C",
+            "text": "BCL2",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "D",
+            "text": "BTK",
+            "feedback": "Correto!",
+            "correct": true
+          }
+        ],
+        "correctIndex": 3
+      },
+      {
+        "num": 15,
+        "text": "Qual gene sofre mutação em quase todos os casos de leucemia clássica de células pilosas?",
+        "options": [
+          {
+            "letter": "A",
+            "text": "SF3B1",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "B",
+            "text": "TP53",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "C",
+            "text": "BRAF",
+            "feedback": "Correto!",
+            "correct": true
+          },
+          {
+            "letter": "D",
+            "text": "ATM",
+            "feedback": "",
+            "correct": false
+          }
+        ],
+        "correctIndex": 2
+      },
+      {
+        "num": 16,
+        "text": "Qual dos seguintes efeitos adversos é mais característico do ibrutinibe usado no tratamento da leucemia linfocítica crônica?",
+        "options": [
+          {
+            "letter": "A",
+            "text": "Colite",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "B",
+            "text": "Tendência a sangramento",
+            "feedback": "Correto!",
+            "correct": true
+          },
+          {
+            "letter": "C",
+            "text": "Neurotoxicidade",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "D",
+            "text": "Síndrome de lise tumoral",
+            "feedback": "",
+            "correct": false
+          }
+        ],
+        "correctIndex": 1
+      },
+      {
+        "num": 17,
+        "text": "Qual dos seguintes medicamentos pode ser eficaz no tratamento da LLC resistente aos outros três medicamentos?",
+        "options": [
+          {
+            "letter": "A",
+            "text": "Zanabrutinibe",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "B",
+            "text": "Pirtobrutinibe",
+            "feedback": "Correto!",
+            "correct": true
+          },
+          {
+            "letter": "C",
+            "text": "Acalabrutinibe",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "D",
+            "text": "Ibrutinibe",
+            "feedback": "",
+            "correct": false
+          }
+        ],
+        "correctIndex": 1
+      },
+      {
+        "num": 18,
+        "text": "Qual das afirmações a seguir é verdadeira em relação à transformação de Richter da leucemia linfocítica crônica?",
+        "options": [
+          {
+            "letter": "A",
+            "text": "Ocorre comumente transformação em linfoma de Hodgkin",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "B",
+            "text": "R-CHOP ou imunoquimioterapia similar tem uma alta taxa de cura",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "C",
+            "text": "Ocorre mais comumente em jovens com LLC",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "D",
+            "text": "Ocorrem formas clonalmente relacionadas e não relacionadas",
+            "feedback": "Correto!",
+            "correct": true
+          },
+          {
+            "letter": "E",
+            "text": "A radioterapia é o tratamento usual de primeira linha",
+            "feedback": "",
+            "correct": false
+          }
+        ],
+        "correctIndex": 3
+      },
+      {
+        "num": 19,
+        "text": "Qual das afirmações é verdadeira em relação ao prognóstico das condições linfoproliferativas?",
+        "options": [
+          {
+            "letter": "A",
+            "text": "A leucemia prolinfocítica de células T está associada a um bom prognóstico",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "B",
+            "text": "A leucemia linfocítica crônica tem uma expectativa de vida geral de < 7 anos",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "C",
+            "text": "A leucemia por linfoma granular grande de células T (GLG-T) é uma doença agressiva com curta expectativa de vida",
+            "feedback": "",
+            "correct": false
+          },
+          {
+            "letter": "D",
+            "text": "A leucemia de células pilosas responde bem ao tratamento, geralmente resultando em longas remissões",
+            "feedback": "Correto!",
+            "correct": true
+          }
+        ],
+        "correctIndex": 3
+      }
+    ]
   }
 ]
